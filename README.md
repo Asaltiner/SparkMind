@@ -15,7 +15,14 @@ It is designed to support those struggling with procrastination by assisting the
 - Established a branch workflow for collaborative development.  
 - Added an initial `README.md` file to document project progress.  
 
-📌 **Next Step:**  
- **Week 2 - Object-Oriented Design & UML Modeling**  
 
-See you next week :)
+### **Week 2 - Object-Oriented Design & UML Modeling**  
+✅ **Tasks Completed:**  
+  Hi eveyone we created UML diagram this week.
+- We drew a UML Class diagram via draw.io
+- We defined classes, attributes and methods.
+- You can see UML.png
+
+
+📌 **Next Step:**  
+### **Week 3. Implementing Business Logic (OOP & SOLID)**
