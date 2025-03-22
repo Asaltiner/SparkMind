@@ -21,6 +21,7 @@ It is designed to support those struggling with procrastination by assisting the
   Hi eveyone we created UML diagram this week.
 - We drew a UML Class diagram via draw.io
 - We defined classes, attributes and methods.
+- ![You can see UML diagram below.] (UML.jpeg).
 
 
 
